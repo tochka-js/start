@@ -9,7 +9,8 @@
 }
 
 
-.dialog {
+.dialogsItems .active {
+    color: #137E93;
 
 }
 
